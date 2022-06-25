@@ -4,20 +4,22 @@
     font-family: sans-serif;
 }
 
+/* background sizing, color */
 .hero {
     position: relative;
     width: 100%;
     height: 100vh;
-    /* background: #eff4fd; */
     background: #efeffd;
     position: relative;  
 }
-.skills, .contact-me {
-    
-    /* background: #eff4fd; */
+/* background color for skills  */
+.skills, .contact-me {    
     background: #efeffd;
 
 }
+
+
+/* used to align my links on top od web page, they are not liked to anything at this time and names may change */
 nav{
     display: flex;
     width: 84%;
@@ -32,18 +34,21 @@ nav{
     cursor: pointer;
 }
 
+/* lines up the links on top */
 nav ul li {
     display: inline-block;
     list-style: none;
     margin: 10px 20px;
 }
 
+/* place Home at the beginning of the links on top */
 nav ul li a{
     text-decoration: none;
     color: #000;
     font-weight: bold;
 }
 
+ /* gives links on top a red color when hovering over */
 nav ul li a:hover{
     color: red;
 }
@@ -53,6 +58,7 @@ nav ul li a:hover{
     margin-top: 15%;
 }   */
 
+/* sizes, colors header introduction */
 .detel h2 {
     font-size: 50px;
     color: #080101;
@@ -64,22 +70,14 @@ span{
     color: rgb(255, 0, 0);
     
 }
-
+/* 
+sizing and coloring for introduction message */
 .detel p{
     color: #555;
     line-height: 22px;
 }
 
-.detel a{
-    background: #212121;
-    padding: 10px 18px;
-    text-decoration: none;
-    font-weight: bold;
-    color: #fff;
-    display: inline-block;
-    margin: 30px 0;
-}
-
+/* sizing for images */
 .images{
     width: 45%;
     height: 80%;
@@ -88,6 +86,7 @@ span{
     right: 100px;
 }
 
+/* sizing for images */
 .images img{
     height: 100%;
     position: absolute;
@@ -97,50 +96,55 @@ span{
     transition: bottom 1s, left 1s;
 }
 
-.images:hover .shape{
-    bottom: 40px;
-}
-
-.images:hover .girl{
-    left: 45%;
-}
+/* vs code logo sizing */
 .vs-logo {
     width: 15%;
     padding-right: 1%;
 }
+
+/* html5 logo sizing */
 .html5-logo {
     width: 10%;
     padding-right: 1%;
 }
 
+/* css3 logo sizing */
 .css3-logo {
     width: 8%;
     padding-right: 1%;
     
 }
 
+/* github logo sizing */
 .git-logo {
     width: -3%;
     padding-left: 0%;
 }
 
+/* git lab logo sizing */
 .lab-logo {
     width: 10%;
     padding-left: 2%;
 }
 
+/* Primary Children's Hospital logo sizing */
 .primary-logo {
     width: -50%;
     padding-right: -10%;
 }
 
+/* 3M logo sizing */
 .codefinder-logo {
     width: 30%;
     padding-right: 16%;
 }
+
+/* coloring for subtitle */
 .profile h2 {
     color: red;    
 }
+
+/* coloring for contact me */
 .contact-me h2 {
     color: red;    
 }
