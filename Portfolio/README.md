@@ -9,4 +9,4 @@ User should use one of the following browsers:
 - FireFox
 - Microsoft Edge
 
-This contains information of where I have worked, my education, hobbies and travels.
+This contains information of where I have worked, my education, hobbies and traval
