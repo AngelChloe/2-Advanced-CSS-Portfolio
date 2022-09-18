@@ -22,7 +22,7 @@ This project is for potential employer to see my work, skills and experience wit
 
 ## Class and group project links Github
 
-- [Team Profile Generator](https://github.com/Cinderbeast/Team-Profile-Generator")
+- [Team Profile Generator](https://github.com/Cinderbeast/Team-Profile-Generator)
 
 - [Web APIs: Code Quiz](https://github.com/Cinderbeast/Web-APIs)
 
@@ -32,7 +32,7 @@ This project is for potential employer to see my work, skills and experience wit
 
 - [Currency Exchange Group Project](https://github.com/Logan2391/Currency-Exchange)
 
-- [Node.js Professional README Generator](https://github.com/Logan2391/Currency-Exchange)
+- [Node.js Professional README Generator](https://github.com/Cinderbeast/09-Node.js-Challenge-Professional-README-Generator)
 
 ## Visuals
 
