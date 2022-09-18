@@ -22,7 +22,7 @@ This project is for potential employer to see my work, skills and experience wit
 
 ## Class and group projects Github links
 
-- [Team Profile Generator](https://github.com/Cinderbeast/Team-Profile-Generator")
+- [Node.js Professional README Generator](https://github.com/Cinderbeast/Team-Profile-Generator)
 
 - [Web APIs: Code Quiz](https://github.com/Cinderbeast/Web-APIs)
 
