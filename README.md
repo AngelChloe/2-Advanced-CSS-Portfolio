@@ -10,7 +10,7 @@
 
 ## Description
 
-I graduated from Weber State Univerity in 200 with a dgree in Health Information Mangement and a specilty in medical record coding.  I am learning full-stck development as a student at The University of Utah Coding Bootcamp.  My background is Medical Records Coding, Clincal Software Development and QA.  
+I graduated from Weber State Univerity in 2000 number one in my class with a degree in Health Information Mangement and a specilty in medical record coding.  I am learning full-stck development as a student at The University of Utah Coding Bootcamp.  My background is Medical Records Coding, Clincal Software Development and QA.  
 
 This project is for potential employer to see my work, skills and experience with software development and more.
 
