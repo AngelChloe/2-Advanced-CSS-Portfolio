@@ -4,7 +4,7 @@
 
 1. [Description](#description)
 2. [Resources](#resources)
-3. [Class and group project links, Github](#Class-and-group-project-links,-Github)
+3. [Class and group project links, Github](Class-and-group-project-links,-Github)
 4. [Visuals](#visuals)
 5. [Author and Acknowledgements](#author-and-acknowledgements)
 
