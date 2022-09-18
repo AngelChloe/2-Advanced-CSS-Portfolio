@@ -1,79 +1,213 @@
 <!DOCTYPE html>
-<html lang="en">
- <head>
+<head>
+    <title>Portfolio</title>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <div class="box300">
-    <title>I am Cindy Chynoweth</title>
-    
-    </div>
-    <link rel="stylesheet" href="assets/style.css">
-   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
+    <meta name="description" content="Portfolio, web designer, web design, web site">
+    <meta name="keywords" content="portfolio, web, design, job, CV, java, html, css, programing">
+    <link rel="shortcut icon" href="assets/images/favicon.ico">
+    <link href="Assets/style.css" rel="stylesheet" type="text/css">
+    <script src="script.js"></script>
 </head>
-
 <body>
-    <div class="hero">
-    <nav>
-        <ul>
-            <li><a href="#">HOME</a></li>
-            <li><a href="#">ABOUT</a></li>
-            <li><a href="#">SERVICES</a></li>
-            <li><a href="#">HIRE ME</a></li>
-        </ul>
-    </nav>
-    <div class="profile">
-        <img src="https://scontent-den4-1.xx.fbcdn.net/v/t39.1997-6/288204006_540898097530813_2522156051382677810_n.webp?stp=dst-webp_p160x160&_nc_cat=103&ccb=1-7&_nc_sid=ac3552&_nc_ohc=DTka7S3F4g8AX-S5Mju&_nc_ht=scontent-den4-1.xx&oh=00_AT99I4gd4su5Oo9zegAZujDX9MPQg-TWCvG_SeD6bXWSlg&oe=62BAB168" alt="profile picture">
-        <h2>Hello World! <span>I am Cindy Chynoweth</span></h2>
-       <p class="intro">I am a front-end clinical software developer and medial records coding specialist residing in West Haven, Utah. 
-        <br>I have very much to learn, oh so much. However, knowledge never stops, I love continually learning.</p><br> 
-        <p>I am currently learning full-stack development as a student at The University of Utah.  My background is Medical Records Coding, Clincal Software Development and QA.</p>
-       
-    </div>
+    <div id="wrapper">
+        <header>
+            <div class="center topnav" id="myTopnav">
+                <a href="#home" class="active">Home</a>
+                <div id="myLinks">
+                    <!-- <a href="#home">Home</a> -->
+                    <a href="#about">About Me</a>
+                    <a href="#skills">My Skills</a>
+                    <a href="#projects">My Projects</a>
+                    <a href="#contact">Contact Me</a>
+                </div>
+                <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                    <i class="fa fa-bars"></i>
+                </a>
+              </div>
+        </header>
+        <main class="center first" id="home">
+            <section class="wrapimg">
+                <article class="transbox">
+                    <a href="index.html">
+                    <h1>I am Cindy Chynoweth</h1>
+                    <h2>Web Developer</h2></a>
+                </article>
+            </section>
+        </main>
+        <main class="center second" id="about">
+            <section class="block left">
+                <div class="exspandedu"><h2>Experience and education</h2></div>
+                <div class="exspandedutxt">
+                    <div class="exsp">
+                        <h3>Experience</h3>
+                        <p>Beginner Web Developer adept in all stages of basic web development. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including Java, HTML, C++, HTML 5, CSS 3, and Microsoft SQL Server. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.</p>
+                    </div>
+                    <div class="edu">
+                        <h3>Education</h3>
+                        <p>Finished Weber State Unversity in 2000 with my degree in Health Information Management and Medical Records Coding.   Graduating numbrt one from my class.  I am currently enrolled in University of Utah Coding Bootcamp for fullstack development.</p>
+                    </div>
+                </div>
+            </section>
+            <section class="block image">
 
-       
-    <div class="detel">
-      <br><p>This is my official Portfolio website to showcase my works related to <br>Clinical Software Development/QA and Medical Records Coding.</p></br>
-            <img class="codefinder-logo" src="https://img.favpng.com/12/15/2/3m-logo-company-png-favpng-1E4B2zTMkSEjfESX5BRJvCmtr.jpg" alt="codefinder logo">
-            <img class="primary-logo" src="https://tukuz.com/wp-content/uploads/2019/06/intermountain-healthcare-primary-childrens-hospital-logo-vector-xs.png" width="280" height="156" alt="primary logo">
-    </div>
-     
-    <div class="skills">
-        <br><h3>My Skills</h3></br>
-        <div class="skill-row">
-            <img class="html5-logo" src="https://th.bing.com/th/id/R.7de7b72e485a615402619b027ac3b767?rik=t2LQ6jae7I0YJQ&riu=http%3a%2f%2fwww.cpdmc.it%2fimages%2fHTML.png&ehk=eU15SsOZnHXgQ34A3xyiSz%2b8WFkrREo10vrWWpr15tg%3d&risl=&pid=ImgRaw&r=0" alt="html5 logo">
-            <img class="css3-logo" src="https://www.icone-png.com/png/52/52323.png" alt="css3 logo">
-            <img class="git-logo" src="https://pngimg.com/uploads/github/small/github_PNG39.png" alt="git logo">   
-            <img class="lab-logo" src=" https://th.bing.com/th/id/OIP.JnySWyq1meNlSs1V69AmxAHaGt?pid=ImgDet&rs=1" alt="lab logo">
-            <!-- <img class="vs-logo" scr="https://th.bing.com/th/id/OIP.6-CSBgtJTWHwS6KZSmFH8QAAAA?pid=ImgDet&w=152&h=163&c=7&dpr=1.25"  alt="vs logo"> -->
-            <!-- vs code logo not working -->
-        </div>  
-         
-         <br><h3>Design & Development</h3></br>
-         <p>Looking for an clinical software developer?  Well, not to worry! <br>I have you covered. Ranging from HTML5, CSS3, VS Code, GitHub and GitLab. <br>My eagerness to learn and absorb much more languages doesn't stop there! <br>As my skills develop even further, I'll add those critical assets to my page to build a business relationship with you.</p>
-    </div>
+            </section>
+        </main>
+        <main class="center third" id="services">
+            <div class="boxnad1">
+                <h2>Services I provide</h2>
+            </div>
+            <section class="threeservices">
+                <article class="service ones">
+                    <figure class="imgsrv firstsrv"></figure>
+                    <figure class="txtsrv leftsrv">
+                        <h3>Website design</h3>
+                        <p>I can make websites from scratch or update your already exsisting websites! I can make responsive, static, dinamic, or any kind of site you want. I also do updates whenever you want, so you can come to me for any change.</p>
+                    </figure>
+                </article>
+                <article class="service two">
+                    <figure class="imgsrv secondsrv"></figure>
+                    <figure class="txtsrv midsrv">
+                        <h3>IT consultancy</h3>
+                        <p>I can give you advice on managing your software systems and architectures, building custom solutions, or driving innovation. The primary aim of consultancy services is taking the business to the next level by optimizing analytics, processes, and workflows with specialized software solutions.</p>
+                    </figure>
+                </article>
+                <article class="service three">
+                    <figure class="imgsrv thirdsrv"></figure>
+                    <figure class="txtsrv rightsrv">
+                        <h3>Helping and explaining</h3>
+                        <p>I can help you out with the process of designing, writing, testing, debugging/troubleshooting and maintaining the source code of computer programs, whilst also helping you understand that process. I am fluent in both English and Serbian so this service is not country-limited.</p>
+                    </figure>
+                </article>
+                <div class="cleaner">
+                </div>
+            </section>
+        </main>
+        <main class="center fourth" id="skills">
+            <section class="boxnad2">
+                <h2>My skills</h2>
+            </section>
+            <section class="skills">
+                <div class="skills2">
+                    <article class="skillsihp">
+                        <i class="fab fa-html5"></i>
+                        <h3>HTML 5</h3>
+                        <p>HTML is the markup language that we use to structure and give meaning to our web content, for example defining paragraphs, headings, and data tables, or embedding images and videos in the page.</p>
+                    </article>
+                    <article class="skillsihp">
+                        <i class="fab fa-css3-alt"></i>
+                        <h3>CSS 3</h3>
+                        <p>CSS is a language of style rules that we use to apply styling to our HTML content, for example setting background colors and fonts, and laying out our content in multiple columns.</p>
+                    </article>
+                </div>
+                <div class="skills2">
+                    <article class="skillsihp">
+                        <i class="fab fa-js"></i>
+                        <h3>JavaScript</h3>
+                        <p>JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.)</p>
+                    </article>
+                    <article class="skillsihp">
+                        <i class="fas fa-code"></i>
+                        <h3>MySQL</h3>
+                        <p>SQL is a language programmers use to create, modify and extract data from the relational database, as well as control user access to the database. In addition to relational databases and SQL, an RDBMS like MySQL works with an operating system to implement a relational database in a computer's storage system, manages users, allows for network access and facilitates testing database integrity and creation of backups.</p>
+                    </article>
+                </div>
+            </section>
+        </main>
         
+        <!-- <div id="projects">
+               <h3>Class and group projects Github links</h3>
+               <br><a href="https://github.com/Cinderbeast/Team-Profile-Generator">Node.js Team Profile Professional Generator</a></br>
     
-    <!-- <div class="projects">
-        <br><h3>Class projects</h3></br>
-            <a herf="https://github.com/Cinderbeast/Team-Profile-Generator">Team Profile Generator</a>
+               <br><a href="https://github.com/Cinderbeast/Web-APIs">Web APIs: Code Quiz</a></br>
+    
+               <br><a href="https://github.com/Cinderbeast/server-side-API-s">Server-Side APIs: Weather Dashboard</a></br>
+    
+               <br><a href="https://github.com/Cinderbeast/Third-Party-APIs">Third Pary APIs: Work Day Scheduler</a></br>
+    
+               <br><a href="https://github.com/Logan2391/Currency-Exchange">Currency Exchange Group Project</a></br>
+           </div> -->
+    
 
-    </div> -->
 
 
-
-    <div class="contact-me">
-        <br><h2>Get In Touch </h2></br>
-        <h3>What are your ideas? Let's hear it!</h3>
-        <p>Do you have any great tips or website for developers or great place to travel? Let me know or let's talk about it. Plus the history behind it and and what makes it great!</p>
-        <br><a class="email" href="mailto:cindychynoweth@gmail.com">Contact me by email</a></br>
-        <!-- email link not working properly -->
-        <a class="footer-link" href="https://www.linkedin.com/in/cindy-chynoweth-6b516243/" target="_blank">LinkedIn</a>
-        
+        <main class="center fifth" id="projects">
+            <section class="boxnad3">
+                <h2>My Projects</h2>
+            </section>
+            <section class="fourprojects">
+                <article class="twoprojects levop">
+                    <figure class="oneproject onep">
+                        <div class="projectimg team-profile-generator shadow-drop-left grow"></div>
+                        <div class="projecttxt">
+                            <a href="https://cinderbeast.github.io/Team-Profile-Generator" target="_blank"><h3>Team Profile Generator</h3>
+                            <p>Static website <br> Used: HTML 5, CSS 3 <br>Multi page <br>Responsive</p></a>
+                        </div>
+                    </figure>
+                    <figure class="oneproject twop">
+                        <div class="projectimg projectimg web coding quiz shadow-drop-left grow"></div>
+                        <div class="projecttxt">
+                            <a href="https://github.com/Cinderbeast/Web-APIs" target="_blank"><h3>Web APIs: Coding Quiz</h3>
+                            <p><br>Used: HTML 5, CSS 3 and JS <br>Responsive</p></a>
+                        </div>
+                    </figure>
+                </article>
+                <article class="twoprojects desnop">
+                    <figure class="oneproject threep">
+                        <div class="projectimg weather dashboard shadow-drop-left grow"></div>
+                        <div class="projecttxt">
+                            <a href="https://github.com/Cinderbeast/server-side-API-s" target="_blank"><h3>Server-Side APIs: Weather Dashboard</h3>
+                            <p>Static website <br> Used: HTML 5, CSS 3, JS <br> Responsive</p></a>
+                        </div>
+                    </figure>
+                    <figure class="oneproject fourp"> 
+                        <div class="projectimg work day schedule shadow-drop-left grow"></div>
+                        <div class="projecttxt">
+                            <a href="https://github.com/Cinderbeast/Third-Party-APIs" target="_blank"><h3>Third Pary APIs: Work Day Schedule</h3>
+                            <p>Upcoming project: curently using HTML 5, JS and CSS 3. <br>Responsive</p></a>
+                        </div>
+                    </figure>
+                </article>
+            </section>
+        </main>
+        <main class="center sixth" id="contact">
+            <section class="boxnad4">
+                <h2>Contact me</h2>
+            </section>
+            <section class="contactme">
+                <article class="map shadow-drop-left">
+                    <iframe scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=701&amp;height=411&amp;hl=en&amp;q=Vuka%20Karadzica%20Obrenovac+(Obrenovac%20trg)&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" width="701" height="411" frameborder="0"></iframe> 
+                </article>
+                <article class="contacttable shadow-drop-left">
+                    <form action="/">
+                        <div class="info">
+                          <input class="fname" type="text" name="name" placeholder="Full name">
+                          <input type="text" name="name" placeholder="Email">
+                          <input type="text" name="name" placeholder="Phone number">
+                        </div>
+                        <p>Message</p>
+                        <div>
+                          <textarea rows="4"></textarea>
+                        </div>
+                        <a href="#"><button type="submit">Submit</button></a>
+                      </form>
+                </article>
+            </section>
+        </main>
+        <div class="center code">
+            <a href="assets/css/originalstyle.css"><h3>Original CSS</h3></a>
+            <a href="assets/css/style.scss"><h3>SASS</h3></a>
+        </div>
+        <footer class="center">
+            <div class="socialmedia-icons">
+                    <a href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a>
+                    
+            </div>
+        </footer>
     </div>
-  </div>
-</body>
+
+    </body>
 </html>
 
 <!-- will need in the future, commented out until I complete these parts of the course.
