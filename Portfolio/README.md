@@ -21,9 +21,9 @@ This project is for potential employer to see my work, skills and experience wit
 
 ## Class projects          
 
-### [Team Profile Generator](https://github.com/Cinderbeast/Team-Profile-Generator")
+- [Team Profile Generator](https://github.com/Cinderbeast/Team-Profile-Generator)
 
-### [Work Day Scheduler](https://github.com/Cinderbeast/Third-Party-APIs)
+- [Work Day Scheduler](https://github.com/Cinderbeast/Third-Party-APIs)
 
 
 
