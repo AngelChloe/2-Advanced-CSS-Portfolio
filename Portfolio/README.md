@@ -1,11 +1,12 @@
- Cindy Chynoweth Portfolio
+# Cindy Chynoweth Portfolio
 
 ## Table of Contents
 
 1. [Description](#description)
 2. [Resources](#resources)
-3. [Visuals](#visuals)
-4. [Author and Acknowledgements](#author-and-acknowledgements)
+3. [Links to class projects Github](#links-to-class-projects-github)
+4. [Visuals](#visuals)
+5. [Author and Acknowledgements](#author-and-acknowledgements)
 
 ## Description
 
@@ -19,13 +20,19 @@ This project is for potential employer to see my work, skills and experience wit
 
 -[Repository](https://github.com/Cinderbeast/Portfolio)
 
-## Class projects          
+## Class and group projects Github links
 
-- [Team Profile Generator](https://github.com/Cinderbeast/Team-Profile-Generator)
+- [Team Profile Generator](https://github.com/Cinderbeast/Team-Profile-Generator")
 
-- [Work Day Scheduler](https://github.com/Cinderbeast/Third-Party-APIs)
+- [Web APIs: Code Quiz](https://github.com/Cinderbeast/Web-APIs)
 
+- [Server-Side APIs: Weather Dashboard](https://github.com/Cinderbeast/server-side-API-s)
 
+- [Third Party APIs: Work Day Scheduler](https://github.com/Cinderbeast/Third-Party-APIs)
+
+- [Currency Exchange Group Project](https://github.com/Logan2391/Currency-Exchange)
+
+- [Node.js Professional README Generator](https://github.com/Logan2391/Currency-Exchange)
 
 ## Visuals
 
