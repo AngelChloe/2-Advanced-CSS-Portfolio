@@ -37,7 +37,7 @@ This project is for potential employer to see my work, skills and experience wit
 ## Visuals
 
 
-![My Portfolio Screen Shot](./assets/images/my-portfolio.png)
+![Portfolio Screen Shot]()
 
 ## Author and Acknowledgements
 
