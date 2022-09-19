@@ -16,7 +16,7 @@ This project is for potential employer to see my work, skills and experience wit
 
 ## Resources
 
--[LIVE SITE](https://cinderbeast.github.io/Portfolio/)
+-[LIVE SITE]( https://cinderbeast.github.io/Portfolio)
 
 -[Repository](https://github.com/Cinderbeast/Portfolio)
 
