@@ -1,7 +1,5 @@
 # Cindy Chynoweth Portfolio
 
-# Advanced CSS Portfolio
-
 
 ## Description
 I have created a website portfolio to make myself more marketable to employers and showcase my HTML and CSS Skills.
