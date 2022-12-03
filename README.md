@@ -1,5 +1,6 @@
 # Cindy Chynoweth Portfolio
 
+# Advanced CSS Portfolio
 
 
 ## Description
@@ -14,7 +15,7 @@ Assignment included adding accessibility elements, further cleaning/structuring 
 
 ## Screenshots
 
-# Porfolio HomePage
+# Portfolio Home Page
 ![HomePage](https://user-images.githubusercontent.com/105569378/205420633-d3fd65ec-4d9b-4e7c-9249-0c92e1c74da4.png)
 
 # My Work Page
@@ -25,9 +26,9 @@ Assignment included adding accessibility elements, further cleaning/structuring 
 
 ## Resources
 
-[LIVE SITE](https://cinderbeast.github.io/2-Advanced-CSS-Portfolio/)
+-[LIVE SITE]( https://cinderbeast.github.io/2-Advanced-CSS-Portfolio/)
 
-[Repository](https://github.com/Cinderbeast/Portfolio)
+-[Repository](https://github.com/Cinderbeast/Portfolio)
 
 
 ## Author and Acknowledgements
