@@ -1,6 +1,5 @@
 # Cindy Chynoweth Portfolio
 
-# Advanced CSS Portfolio
 
 
 ## Description
