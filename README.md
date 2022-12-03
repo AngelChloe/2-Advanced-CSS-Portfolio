@@ -33,4 +33,4 @@ Assignment included adding accessibility elements, further cleaning/structuring 
 
 ## Author and Acknowledgements
 
-Created & optimized by University of Utah Coding Bootcamp Student, Cindy Chynoweth
+Created & optimized by University of Utah Coding Bootcamp Student, Cindy Chynoweth.  Plus a special thanks to Omar!
