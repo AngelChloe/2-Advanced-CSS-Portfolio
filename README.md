@@ -14,7 +14,7 @@ Assignment included adding accessibility elements, further cleaning/structuring 
 
 ## Screenshots
 
-# Protfolio Hom Page
+# Porfolio HomePage
 ![HomePage](https://user-images.githubusercontent.com/105569378/205420633-d3fd65ec-4d9b-4e7c-9249-0c92e1c74da4.png)
 
 # My Work Page
@@ -25,9 +25,9 @@ Assignment included adding accessibility elements, further cleaning/structuring 
 
 ## Resources
 
--[LIVE SITE](https://cinderbeast.github.io/Portfolio/)
+[LIVE SITE](https://cinderbeast.github.io/Portfolio/)
 
--[Repository](https://github.com/Cinderbeast/Portfolio)
+[Repository](https://github.com/Cinderbeast/Portfolio)
 
 
 ## Author and Acknowledgements
