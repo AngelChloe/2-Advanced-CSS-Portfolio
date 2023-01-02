@@ -24,7 +24,7 @@ Assignment included adding accessibility elements, further cleaning/structuring 
 
 ## Resources
 
-[LIVE SITE](https://cinderbeast.github.io/2-Advanced-CSS-Portfolio/)
+[LIVE SITE](https://angelchloe.github.io/2-Advanced-CSS-Portfolio/)
 
 [Repository](https://github.com/Cinderbeast/Portfolio)
 
